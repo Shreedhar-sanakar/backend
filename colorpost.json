@@ -1,0 +1,30 @@
+{
+    "name": "Bronze",
+    "code": "#CD7F32",
+    "qualities": {
+        "symbolizes": [
+            "Strength",
+            "Loyalty",
+            "Support",
+            "Stability"
+        ],
+        "effects": [
+            "soothes",
+            "inspires",
+            "uplifts",
+            "motivates"
+        ],
+        "positive": [
+            "comforting",
+            "reliable",
+            "elegant",
+            "truthful"
+        ],
+        "negative": [
+            "cheap",
+            "boastful",
+            "uptight",
+            "tight-fisted"
+        ]
+    }
+}
